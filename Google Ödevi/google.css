@@ -1,0 +1,67 @@
+/* Google Yazısı */
+.c { 
+    float:left ;
+    margin-right: 6px;
+    
+    
+}
+
+.p {
+    font-size: 100px;
+    font-weight: bold; 
+    font-family: 'Catull', sans-serif;
+    text-shadow: 3px 3px 9px #000000;
+    /* margin: 0; */
+   }
+
+   .yanyana {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Beta Yazısı */
+  .beta {
+    position: relative;
+    top: 50px;
+    right: 111px;
+  }
+  
+  .beta-text {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: gray;
+    text-shadow: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  /* Beta Yazısı Son */
+
+.c-gray {
+    background-color: rgb(204, 196, 196);
+}
+.c-aqua {
+    background-color: aquamarine;
+}
+.c-green {
+    background-color: rgb(204, 248, 233);
+}
+.c-greenn {
+    background-color: rgb(89, 236, 187);
+}
+/******************* Kutular *******************/
+.box1 {
+    height: 120px;
+    width: 500px;
+}
+.box2 {
+    height: 120px;
+    width: 200px;
+}
+.box3 {
+    height: 120px;
+    width: 700px;
+}
+.box {
+    height: 120px;
+    width: 1400px;
+}
