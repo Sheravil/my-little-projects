@@ -1,0 +1,21 @@
+h1 {
+  color: whitesmoke;
+}
+span {
+  color: green;
+}
+p , h2 {
+  color: darkcyan;
+}
+
+.bc-color {
+  background-color: #E9ECEF;
+}
+
+main {
+   margin-right: 50px;
+}
+
+a:link {
+  color: green;    
+  text-decoration: none;
