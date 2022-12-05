@@ -1,2 +1,1 @@
-# kodluyoruzikincirepo
-Kodluyoruz.com İkinci Ödevim
+my all little project in this project
